@@ -16,7 +16,7 @@ An interactive retail sales dashboard built using Microsoft Power BI to analyze 
 - Exploratory Data Analysis
 
 ## Dashboard Preview
-Screenshots of the dashboard will be added here.
+![Retail Sales Performance Dashboard](Screenshot 2026-10-28 182208.png)
 
 ## Key Insights
 Key findings will be documented based on the dashboard analysis.
